@@ -2,6 +2,7 @@
 
 ## 更新情報
 
+- (2023/10/9) Goldデータの公開
 - (2023/7/3) リポジトリの公開
 
 ## タスク設定
@@ -26,6 +27,8 @@ https://sites.google.com/view/ntcir17-ufo/subtasks/table-data-extraction
 - `src/tde_convert.py`
     - train データの形式から、提出用のファイル形式に変換します。
     - train データの一部を dev データとして使用する場合の、評価スクリプトに与える gold データを作成するために使用してください。
+- `gold/UFO_TDE_v20230703-Gold.json`
+    - 正解データです。
 
 ## 入力ファイル形式
 
